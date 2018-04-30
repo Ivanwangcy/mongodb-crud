@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "利用Nodejs 进行 MongoDB 数据 CRUD 操作。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanwangcy/mongodb-crud.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanwangcy/mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/Ivanwangcy/mongodb-crud#readme",
+  "dependencies": {
+    "mongoose": "^5.0.16"
+  }
+}
